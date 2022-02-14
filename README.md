@@ -1,6 +1,6 @@
 # exo-js
 
-javascript tax command line
+javascript tax command line using prompt library
 
 
 ## Install dependencies
